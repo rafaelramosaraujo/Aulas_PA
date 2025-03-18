@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="Página-1" id="SmArnXxBkOmFsvck2dcO">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IDFPVzvC2Ku9ai9EPE6P-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IDFPVzvC2Ku9ai9EPE6P-1" target="IDFPVzvC2Ku9ai9EPE6P-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDFPVzvC2Ku9ai9EPE6P-1" value="inicio" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IDFPVzvC2Ku9ai9EPE6P-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IDFPVzvC2Ku9ai9EPE6P-2" target="IDFPVzvC2Ku9ai9EPE6P-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDFPVzvC2Ku9ai9EPE6P-2" value="cotacao, valorreais" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IDFPVzvC2Ku9ai9EPE6P-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IDFPVzvC2Ku9ai9EPE6P-4" target="IDFPVzvC2Ku9ai9EPE6P-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDFPVzvC2Ku9ai9EPE6P-4" value="resultado = (valorreais/cotacao)" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IDFPVzvC2Ku9ai9EPE6P-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IDFPVzvC2Ku9ai9EPE6P-6" target="IDFPVzvC2Ku9ai9EPE6P-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDFPVzvC2Ku9ai9EPE6P-6" value="resultado" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IDFPVzvC2Ku9ai9EPE6P-8" value="fim" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
